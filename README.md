@@ -10,4 +10,5 @@ Tests 21 types of infection scenarios
 Just download the install and run it  
 Results in a few minutes! 
 NOTE: Created for Windows-based workstations running Windows 7+. RanSim does not alter any existing files on disk.  As part of the simulation RanSim does enumerate all files on the local disk(s). For the purposes of encryption, simulated data files are downloaded from the Internet.
-
+Note - The main executable file is ranstart.exe.
+Your pc may block the download due to antivirus detection.
